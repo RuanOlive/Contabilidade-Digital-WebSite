@@ -1,0 +1,24 @@
+#cabecalho {
+    height: 100px;
+    padding: 0 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#cabecalho__logo {
+    height: 100px;
+}
+
+.menu__item {
+    display: inline-block;
+}
+
+.menu__link {
+    color: #30455c;
+    text-decoration: none;
+    padding: 25px 10px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: sans-serif;
+}
